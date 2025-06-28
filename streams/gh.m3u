@@ -43,3 +43,5 @@ https://live.mediageneral.digital/live/livestream.m3u8
 http://69.64.57.208/joyprime/playlist.m3u8
 #EXTINF:-1 tvg-id="JoyNews.gh",Joy News
 http://69.64.57.208/joynews/playlist.m3u8
+#EXTINF:-1 tvg-id="Folmtv.gh",Folm TV
+https://folmtv.localstreamgh.com/hls/stream.m3u8
