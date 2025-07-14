@@ -43,6 +43,30 @@ https://live.mediageneral.digital/live/livestream.m3u8
 http://69.64.57.208/joyprime/playlist.m3u8
 #EXTINF:-1 tvg-id="JoyNews.gh",Joy News
 http://69.64.57.208/joynews/playlist.m3u8
+#EXTINF:-1 tvg-id="Folmtv.gh",Folm TV
+https://folmtv.localstreamgh.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="",G-Eye Music+
+https://server.geyetv.com/G-EyeMusicplus/index.m3u8
+#EXTINF:-1 tvg-id="",G-Eye Action HD
+https://server.geyetv.com/G-EyeActionHD/index.m3u8
+#EXTINF:-1 tvg-id="",G-Eye Sports Network
+https://server.geyetv.com/G-EyeSportsNetwork/index.m3u8
+#EXTINF:-1 tvg-id="",G-Eye Mission TV
+https://server.geyetv.com/G-EyeMission/index.m3u8
+#EXTINF:-1 tvg-id="",G-Eye Docs
+https://server.geyetv.com/G-EyeDocs/index.m3u8
+#EXTINF:-1 tvg-id="",G-Eye AfroCinema
+https://server.geyetv.com/G-EyeAfroCinema/index.m3u8
+#EXTINF:-1 tvg-id="",G-Eye Gospel Flow
+https://server.geyetv.com/G-EyeGospelFlow/index.m3u8
+#EXTINF:-1 tvg-id="",G-Eye Kids Zone
+https://server.geyetv.com/G-EyeKidsZone/index.m3u8
+#EXTINF:-1 tvg-id="",G-Eye Wild+
+https://server.geyetv.com/G-EyeWild/index.m3u8
+#EXTINF:-1 tvg-id="",G-Eye Prime Series
+https://server.geyetv.com/G-EyePrimeSeries/index.m3u8
+#EXTINF:-1 tvg-id="",G-Eye 24/7 News
+https://server.geyetv.com/G-Eye247News/index.m3u8
 #EXTINF:-1 tvg-id="FishTV.gh",Fish TV
 https://tv.localstreamgh.com/fishtv/index.m3u8
 #EXTINF:-1 tvg-id="",G-eye TV
