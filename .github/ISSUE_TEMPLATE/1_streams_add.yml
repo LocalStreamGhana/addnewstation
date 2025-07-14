@@ -17,7 +17,7 @@ body:
     id: stream_url
     attributes:
       label: Stream URL (required)
-      description: Link to the stream
+      description: Link to be added to the playlist
       placeholder: 'https://example.com/playlist.m3u8'
     validations:
       required: true
@@ -59,6 +59,13 @@ body:
     attributes:
       label: HTTP Referrer
       placeholder: 'https://example.com/'
+
+  - type: textarea
+    id: directives
+    attributes:
+      label: Directives
+      description: 'List of directives telling players how to play the stream. Supported `#KODIPROP` and `#VLCOPT`.'
+      placeholder: '#KODIPROP:inputstream=inputstream.adaptive'
 
   - type: textarea
     id: notes
